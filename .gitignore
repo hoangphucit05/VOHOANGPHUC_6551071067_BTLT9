@@ -1,0 +1,14 @@
+## C# / .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+.vs/
+packages/
+*.nupkg
+TestResults/

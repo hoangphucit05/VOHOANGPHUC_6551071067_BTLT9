@@ -1,0 +1,11 @@
+# Build and visual studio artifacts
+bin/
+obj/
+.vs/
+
+# Sensitive configuration containing passwords / credentials
+appsettings.Development.json
+
+# Log files
+Logs/
+*.log
